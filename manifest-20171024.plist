@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/hsuanchih/One/master/One20171024.ipa</string>
+					<string>https://raw.githubusercontent.com/swy680614/One/master/One20171024.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/hsuanchih/One/master/icon57.png</string>
+					<string>https://raw.githubusercontent.com/swy680614/One/master/icon57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/hsuanchih/One/master/icon512.png</string>
+					<string>https://raw.githubusercontent.com/swy680614/One/master/icon512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
